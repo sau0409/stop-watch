@@ -90,4 +90,8 @@ a {
     html {
         font-size: 3vw;
     }
+
+    .time {
+        width: 15vw;
+    }
 }
